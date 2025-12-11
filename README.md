@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrew Leach
 
-<!--
-**andrew-c-leach/andrew-c-leach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Engineer at Grammarly | Berlin, Germany
 
-Here are some ideas to get you started:
+I am a passionate full-stack software engineer based in **Berlin, Germany**, specializing in building efficient and user-friendly applications at **Grammarly**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills
+
+- **Languages:** JavaScript, C, Java
+- **Frameworks:** React, Node.js
+  
+---
